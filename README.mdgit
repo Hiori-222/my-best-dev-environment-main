@@ -1,0 +1,1 @@
+# my-best-dev-environment-main initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origingit@github.com:Hiori-222/my-best-dev-environment-main.git gitpush -u origin main
